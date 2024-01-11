@@ -30,7 +30,7 @@
 ## Usage
 1. Drag the image file into the program.
 2. Wait for the program to output the .mcfunction file
-3. Place .mcfunction in the function folder in the world folder (see [this](https://www.bilibili.com/read/cv12244435/) [Chinese])
+3. Place .mcfunction in the function folder in the world folder
 4. Generate text by using /function
 ---
 **Please note that the file must have .png suffix and the blank spaces must be transparent.**
