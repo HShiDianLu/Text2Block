@@ -5,7 +5,7 @@ from func_timeout import func_set_timeout, FunctionTimedOut
 import msvcrt
 from tqdm import tqdm
 
-VERSION = "v1.0"
+VERSION = "b0.1"
 print("Text2Block |", VERSION)
 print("Program By HShiDianLu. (2024.1)")
 
