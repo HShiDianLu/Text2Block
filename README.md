@@ -35,4 +35,4 @@
 ---
 **Please note that the file must have .png suffix and the blank spaces must be transparent.**
 
-Copyright © 2023 by HShiDianLu.
+Copyright © 2024 by HShiDianLu.
